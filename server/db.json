@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": "d5fE_asz",
+      "title": "The New Turing Omnibus",
+      "author": "Alexander K. Dewdney"
+    },
+    {
+      "id": "0kFaJHB2",
+      "title": "Programming Pearls",
+      "author": "이동건"
+    },
+    {
+      "id": "RUMT0kY4",
+      "title": "풀스텍 개발자 (토스)",
+      "author": "이동건"
+    },
+    {
+      "id": "5uer_Zw5",
+      "title": "React-query 학습",
+      "author": "이동건"
+    }
+  ]
+}
